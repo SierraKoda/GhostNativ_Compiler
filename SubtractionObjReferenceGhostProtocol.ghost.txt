@@ -1,0 +1,51 @@
+﻿*.
+.
+.
+.   GhostProtocol Subtraction Object
+.       Descriptor and Parameter 
+.       Usage and Naming
+.
+.   ® © £ ¥ ° ԉ ∆ Ω ₿ ₡ € ᴁ ᴓ ɶ ᴂ
+.*
+
+
+
+*.   Subtraction Object Variable Placement         .                                     .*
+
+*.    e:-[parameters,parameters,etc]:[Variable Type and Name for Storage]             .*
+
+e:-$__,$__:$___        *.   String                         .*
+e:-1__,1__:1___        *.   Integer                        .*
+e:-%__,%__:%___        *.   Float                          .*
+e:-@__,@__:@___        *.   Array                          .*
+e:-!__,!__:!___        *.   Boolean                        .*
+e:-#__,#__,!___:¥___   *.   Hash String Encryption Bool equiv 
+                        .    to Does!NotEqual Hash Value True 
+                        .    or Make Flag                   .*
+
+
+*.   Subtraction Object Definition                 .                                     .*
+               
+
+$sd3[thisstuff_here_and_all;
+$sd5[thisstuff_here;           *.   String Active Example Stored  .*
+e:-$sd3,$sd5:$fn    
+
+*.           Creates a Dynamic "and all"                .*
+
+$sd3[thisstuff_here_and_all;
+$sd5[thisstuff_here;           *.   String Active Example Stored  .*
+e:-$sd3,$sd5:$fn
+
+*.   Create Output String "and all" and Saves it to String 'fn' .*
+
+1cn445;                       *.   Integer Active Example Dynamic .*
+1mE32;
+e:-11cn,1mE:1mTe
+
+*.   Create Output Integer of 445 - 32 for Integer mTe to equal 413.*
+
+
+*.
+.       Page Break
+.*

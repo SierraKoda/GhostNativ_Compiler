@@ -1,0 +1,42 @@
+﻿*.
+.
+.
+.   GhostProtocol ReadLine Object
+.       Descriptor and Parameter 
+.       Usage and Naming
+.
+.
+.*
+
+
+
+*.   Readline Object Variable Placement  "st3m"                      .                               .*
+
+
+$st3m;ᴫ     
+
+
+
+*.  ReadLine Object Definition                        .                               .*
+               
+
+*.   Variable Container      .            .*
+
+$st3m +  ;ᴫ        *.     string    st3m       .*  +  *. Assignment Instantiator for Constant Running Thread (UserIO)  .*
+%fl5n +  ;ᴫ        *.     float     fl5n       .*  +  *. Assignment Instantiator for Constant Running Thread (UserIO)  .*
+!bl1  +  ;ᴫ        *.     bool      bl1        .*  +  *. Assignment Instantiator for Constant Running Thread (UserIO)  .*
+@arr4 +  ;ᴫ        *.     array     arr4       .*  +  *. Assignment Instantiator for Constant Running Thread (UserIO)  .*
+1vl4  +  ;ᴫ        *.     integer   vl4        .*  +  *. Assignment Instantiator for Constant Running Thread (UserIO)  .*   
+   
+                                             
+   $st3m;ᴫ                       *. Assign UserInput to String st3m                  Accessible Syntax Proper Assignment
+   %fl5n;ᴫ                        . Assign UserInput to Float fl5n                   Accessible Syntax Proper Assignment
+   !bl1;ᴫ                         . Assign UserInput to Bool bl1                     Accessible Syntax Proper Assignment
+   @arr4;ᴫ                        . Assign UserInput to Array arr4                   Accessible Syntax Proper Assignment
+   1vl4;ᴫ                         . Assign UserInput to Integer vl4                  Accessible Syntax Proper Assignment
+                                  .*
+                          
+
+*.
+.       Page Break
+.*

@@ -1,0 +1,50 @@
+﻿*.
+.
+.
+.   GhostProtocol Addition Object
+.       Descriptor and Parameter 
+.       Usage and Naming
+.
+.   ® © £ ¥ ° ԉ ∆ Ω ₿ ₡ € ᴁ ᴓ ɶ ᴂ
+.*
+
+
+
+*.   Addition Object Variable Placement         .                                     .*
+
+*.    e:+[parameters,parameters,etc]:[Variable Type and Name for Storage]             .*
+
+e:+$__,$__:$___        *.   String                         .*
+e:+1__,1__:1___        *.   Integer                        .*
+e:+%__,%__:%___        *.   Float                          .*
+e:+@__,@__:@___        *.   Array                          .*
+e:+!__,!__:!___        *.   Boolean                        .*
+e:+#__,#__,!___:¥___   *.   Hash String Encryption Bool    .*
+
+
+*.   Addition Object Definition                 .                                     .*
+               
+
+$sd5[thisstuff_here;           *.   String Active Example Dynamic  .*
+$sd3[thisalso_here_and_all;
+e:+$sd5,$sd3     
+
+*.           Creates a Dynamic "thisstuff here thisalso here and all"                .*
+
+
+$sd5[thisstuff_here;           *.   String Active Example Stored  .*
+$sd3[thisalso_here_and_all;
+e:+$sd5,$sd3:$fn
+
+*.   Create Output String "thisstuff here thisalso here and all" and Saves it to String 'fn' .*
+
+1cn445;                       *.   Integer Active Example Dynamic .*
+1mE5543;
+e:+1cn,1mE:1mTe
+
+*.   Create Output Integer of 445 + 5543 for Integer mTe to equal 5988.*
+
+
+*.
+.       Page Break
+.*

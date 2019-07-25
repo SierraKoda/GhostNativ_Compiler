@@ -1,0 +1,45 @@
+﻿*.
+.
+.                                     GhostProtocol AmmendFile Object
+.                                         Descriptor and Parameter 
+.                                             Usage and Naming
+.
+.
+.                                      ® © £ ¥ ° ԉ ∆ Ω ₿ ₡ € ᴁ ᴓ ɶ ᴂ
+.*
+
+
+
+*.                                   AmmendFile Object Variable Placement                   .                               .*
+
+
+                         @ii∆FILE[textAmmendment:textToBeReplaced
+
+
+
+*.                                        AmmendFile Object Definition                      .                               .*
+               
+                         @ii∆ObjRepresentation.ghost[$:variable_class_instance_differentiation
+                   _due_to_parameter_adjustment_syntax_capable:$:parameter_personalization_optional;
+
+
+ *. 
+  .       Causes     ObjRepresentation.ghost   which lists usages for a class implementation to delete the phrase 
+  .         "parameter personalization optional" and replace it with "variable class instance differentiation due 
+  .          to parameter adjustment syntax capable"
+  .
+  .*
+
+
+*.                                       AmmendFile  Variable Container                                                    .*
+ 
+
+
+  @ii∆@lt4S[@vm:@4Frl;   *. This Implementation will place array 'vm' in place of array '4Frl' in the parent array 'lt4S'  .*
+  @ii∆$Fn3[$:bit:vet;    *. If String Fn3 is "vetch" now its just "bitch"                                                  .*
+  @ii∆%pass[%true:%false;       *. If the Boolean 'pass' yeilds False it will be Immediately Tagged to a boolean True      .*
+
+
+*.
+ .       Page Break
+ .*
